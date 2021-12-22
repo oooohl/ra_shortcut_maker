@@ -11,10 +11,10 @@ os.chdir('Game Shortcuts')
 
 # REPLACE THESE LINES WITH PATHS TO YOUR FOLDERS v
 
-RAFOLDER = "D:\Emulation\Other Files\RetroArch"
+RAFOLDER = "C:\Games\RetroArch"
 CORES_DIR = os.path.join(RAFOLDER, "Cores")
 RA_LOCATION = os.path.join(RAFOLDER, "retroarch.exe")
-ROM_PATH = "D:\\Emulation\\Nintendo\\Super Nintendo Entertainment System\\ROMs\\"
+ROM_PATH = "C:\\Roms\\"
 
 # REPLACE THESE LINES WITH PATHS TO YOUR FOLDERS ^
 
